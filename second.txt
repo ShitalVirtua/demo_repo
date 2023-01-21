@@ -1,6 +1,2 @@
 CSecond File
-
-C
-C
-C
-e
+This is my last line
